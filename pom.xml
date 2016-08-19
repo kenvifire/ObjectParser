@@ -6,7 +6,7 @@
 
     <groupId>com.itluobo</groupId>
     <artifactId>object-parser</artifactId>
-    <version>1.0.1</version>
+    <version>0.0.1</version>
 
     <properties>
         <junit.version>4.11</junit.version>
