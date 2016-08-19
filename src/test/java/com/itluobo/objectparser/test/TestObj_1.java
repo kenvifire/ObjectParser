@@ -9,6 +9,4 @@ public class TestObj_1 {
     private TestObject_In in;
     private TestObjComplex_origin data;
 
-
-
 }
